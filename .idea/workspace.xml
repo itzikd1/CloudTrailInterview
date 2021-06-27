@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="737dc38f-f7a7-4246-82e1-75b7aa1a9acb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>create_empty_entity</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/test_ensure_no_production_tag_rule.py" />
+        <option value="$PROJECT_DIR$/cloudrail/main.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/cloudrail/rules/ensure_there_are_no_ec2_with_similar_names_rule.py" />
+        <option value="$PROJECT_DIR$/tests/test_ensure_there_are_no_ec2_with_similar_names_rule.py" />
+        <option value="$PROJECT_DIR$/cloudrail/rules/ensure_no_production_tag_rule.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="665" />
+    <option name="y" value="235" />
+    <option name="width" value="700" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rule-interview-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-interview-main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py">
+    <configuration name="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="rule-interview-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule.test_production_tag_exist_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="rule-interview-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule.test_production_tag_exist_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="rule-interview-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_ensure_no_production_tag_rule.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="rule-interview-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_ensure_no_production_tag_rule.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="rule-interview-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_ensure_there_are_no_ec2_with_similar_names_rule.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" />
+        <item itemvalue="Python tests.pytest in test_ensure_no_production_tag_rule.py" />
+        <item itemvalue="Python tests.pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule" />
+        <item itemvalue="Python tests.pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule" />
+        <item itemvalue="Python tests.pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule.test_production_tag_exist_fail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737dc38f-f7a7-4246-82e1-75b7aa1a9acb" name="Default Changelist" comment="" />
+      <created>1624517450832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624517450832</updated>
+      <workItem from="1624517452285" duration="3146000" />
+      <workItem from="1624520610802" duration="3146000" />
+      <workItem from="1624523799720" duration="4874000" />
+      <workItem from="1624775872207" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_ensure_there_are_no_ec2_with_similar_names_rule_TestEnsureThereAreNoEc2WithSimilarNamesRule - 2021.06.27 at 10h 09m 48s.xml">
+      <configuration name="pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_ensure_no_production_tag_rule_TestEnsureAllResourcesTaggedRule - 2021.06.27 at 10h 09m 53s.xml">
+      <configuration name="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 10m 00s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 10m 36s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 11m 00s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 12m 18s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 12m 36s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 12m 42s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_no_production_tag_rule_py - 2021.06.27 at 10h 18m 01s.xml">
+      <configuration name="pytest in test_ensure_no_production_tag_rule.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py - 2021.06.27 at 10h 18m 05s.xml">
+      <configuration name="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13934000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.5118306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.23163138" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="env_instance.tags" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="instance_ec2['Tags']" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rule_interview_main$ensure_there_are_no_ec2_with_similar_names_rule.coverage" NAME="ensure_there_are_no_ec2_with_similar_names_rule Coverage Results" MODIFIED="1624544570658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cloudrail/rules" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_there_are_no_ec2_with_similar_names_rule_TestEnsureThereAreNoEc2WithSimilarNamesRule.coverage" NAME="pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule Coverage Results" MODIFIED="1624777786471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_there_are_no_ec2_with_similar_names_rule_TestEnsureThereAreNoEc2WithSimilarNamesRule_test_are_not_similar_fail.coverage" NAME="pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule.test_are_not_similar_fail Coverage Results" MODIFIED="1624776413277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$main.coverage" NAME="main Coverage Results" MODIFIED="1624523857650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cloudrail" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_in_test_ensure_no_production_tag_rule_py.coverage" NAME="pytest in test_ensure_no_production_tag_rule.py Coverage Results" MODIFIED="1624778279741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_there_are_no_ec2_with_similar_names_rule_TestEnsureThereAreNoEc2WithSimilarNamesRule_test_are_similar_pass.coverage" NAME="pytest for test_ensure_there_are_no_ec2_with_similar_names_rule.TestEnsureThereAreNoEc2WithSimilarNamesRule.test_are_similar_pass Coverage Results" MODIFIED="1624776440474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_no_production_tag_rule_TestEnsureAllResourcesTaggedRule_test_production_not_tag_exist_pass.coverage" NAME="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule.test_production_not_tag_exist_pass Coverage Results" MODIFIED="1624776685498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_in_test_ensure_there_are_no_ec2_with_similar_names_rule_py.coverage" NAME="pytest in test_ensure_there_are_no_ec2_with_similar_names_rule.py Coverage Results" MODIFIED="1624778283444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$ensure_no_production_tag_rule.coverage" NAME="ensure_no_production_tag_rule Coverage Results" MODIFIED="1624524936690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cloudrail/rules" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_no_production_tag_rule_TestEnsureAllResourcesTaggedRule_test_production_tag_exist_fail.coverage" NAME="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule.test_production_tag_exist_fail Coverage Results" MODIFIED="1624777356238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/rule_interview_main$pytest_for_test_ensure_no_production_tag_rule_TestEnsureAllResourcesTaggedRule.coverage" NAME="pytest for test_ensure_no_production_tag_rule.TestEnsureAllResourcesTaggedRule Coverage Results" MODIFIED="1624777791938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1575815200/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1732325980/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="2871" column="8" selection-start-line="2871" selection-start-column="8" selection-end-line="2871" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/entities/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/cloud-data/ec2-describe-instances.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/rules/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/cloudrail/knowledge/rules/aws/aws_base_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/_pytest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/entities/ec2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/pluggy/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/pluggy/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/pluggy/callers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/_pytest/unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="322" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="675" selection-start-line="675" selection-end-line="675" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_ensure_there_are_no_ec2_with_similar_names_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_ensure_no_production_tag_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/rules/ensure_there_are_no_ec2_with_similar_names_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/rule-interview-main/Lib/site-packages/cloudrail/knowledge/rules/base_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudrail/rules/ensure_no_production_tag_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

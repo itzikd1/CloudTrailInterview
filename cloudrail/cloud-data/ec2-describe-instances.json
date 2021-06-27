@@ -1,0 +1,219 @@
+{
+  "Instances": [
+    {
+      "AmiLaunchIndex": 0,
+      "Architecture": "x86_64",
+      "BlockDeviceMappings": [],
+      "CapacityReservationSpecification": {
+        "CapacityReservationPreference": "open"
+      },
+      "ClientToken": "efc5d38f-73c2-0b63-d75b-255405ba4b41",
+      "CpuOptions": {
+        "CoreCount": 1,
+        "ThreadsPerCore": 1
+      },
+      "EbsOptimized": false,
+      "EnaSupport": true,
+      "HibernationOptions": {
+        "Configured": false
+      },
+      "Hypervisor": "xen",
+      "ImageId": "ami-0f40c8f97004632f9",
+      "InstanceId": "i-0572f6c177f3ffdaa",
+      "InstanceType": "t2.micro",
+      "LaunchTime": "2020-10-01T11:12:23+00:00",
+      "MetadataOptions": {
+        "HttpEndpoint": "enabled",
+        "HttpPutResponseHopLimit": 1,
+        "HttpTokens": "optional",
+        "State": "pending"
+      },
+      "Monitoring": {
+        "State": "enabled"
+      },
+      "NetworkInterfaces": [],
+      "Placement": {
+        "AvailabilityZone": "us-east-1b",
+        "GroupName": "",
+        "Tenancy": "default"
+      },
+      "PrivateDnsName": "",
+      "ProductCodes": [],
+      "PublicDnsName": "",
+      "RootDeviceName": "/dev/sda1",
+      "RootDeviceType": "ebs",
+      "SecurityGroups": [],
+      "State": {
+        "Code": 48,
+        "Name": "terminated"
+      },
+      "StateReason": {
+        "Code": "Client.UserInitiatedShutdown",
+        "Message": "Client.UserInitiatedShutdown: User initiated shutdown"
+      },
+      "StateTransitionReason": "User initiated (2020-10-01 11:24:58 GMT)",
+      "Tags": [
+        {
+          "Key": "Name",
+          "Value": "dog"
+        },
+        {
+          "Key": "aws:autoscaling:groupName",
+          "Value": "chkp_fws"
+        },
+        {
+          "Key": "environment",
+          "Value": "production"
+        }
+      ],
+      "VirtualizationType": "hvm"
+    },
+    {
+      "AmiLaunchIndex": 0,
+      "Architecture": "x86_64",
+      "BlockDeviceMappings": [
+        {
+          "DeviceName": "/dev/sda1",
+          "Ebs": {
+            "AttachTime": "2020-10-01T11:33:19+00:00",
+            "DeleteOnTermination": true,
+            "Status": "attached",
+            "VolumeId": "vol-00726cc39d5935a60"
+          }
+        }
+      ],
+      "CapacityReservationSpecification": {
+        "CapacityReservationPreference": "open"
+      },
+      "CpuOptions": {
+        "CoreCount": 1,
+        "ThreadsPerCore": 1
+      },
+      "EbsOptimized": false,
+      "EnaSupport": true,
+      "HibernationOptions": {
+        "Configured": false
+      },
+      "Hypervisor": "xen",
+      "ImageId": "ami-0f40c8f97004632f9",
+      "InstanceId": "i-03e54d61c76b6b694",
+      "InstanceType": "t2.micro",
+      "LaunchTime": "2020-10-01T11:33:19+00:00",
+      "MetadataOptions": {
+        "HttpEndpoint": "enabled",
+        "HttpPutResponseHopLimit": 1,
+        "HttpTokens": "optional",
+        "State": "applied"
+      },
+      "Monitoring": {
+        "State": "disabled"
+      },
+      "Placement": {
+        "AvailabilityZone": "us-east-1c",
+        "GroupName": "",
+        "Tenancy": "default"
+      },
+      "PrivateDnsName": "ip-172-31-90-83.ec2.internal",
+      "PrivateIpAddress": "172.31.90.83",
+      "ProductCodes": [],
+      "RootDeviceName": "/dev/sda1",
+      "RootDeviceType": "ebs",
+      "SecurityGroups": [
+        {
+          "GroupId": "sg-76c32f4b",
+          "GroupName": "default"
+        }
+      ],
+      "SourceDestCheck": true,
+      "State": {
+        "Code": 16,
+        "Name": "running"
+      },
+      "StateTransitionReason": "",
+      "SubnetId": "subnet-d1d37df0",
+      "Tags": [
+        {
+          "Key": "Name",
+          "Value": "good"
+        },
+        {
+          "Key": "Name",
+          "Value": "my_ec2"
+        },
+        {
+          "Key": "environment",
+          "Value": "production"
+        }
+      ],
+      "VirtualizationType": "hvm",
+      "VpcId": "vpc-a833cfd5"
+    },
+    {
+      "AmiLaunchIndex": 0,
+      "Architecture": "x86_64",
+      "BlockDeviceMappings": [],
+      "CapacityReservationSpecification": {
+        "CapacityReservationPreference": "open"
+      },
+      "CpuOptions": {
+        "CoreCount": 1,
+        "ThreadsPerCore": 1
+      },
+      "EbsOptimized": false,
+      "EnaSupport": true,
+      "HibernationOptions": {
+        "Configured": false
+      },
+      "Hypervisor": "xen",
+      "ImageId": "ami-0f40c8f97004632f9",
+      "InstanceId": "i-0acdfbc9d64b41a4c",
+      "InstanceType": "t2.micro",
+      "LaunchTime": "2020-10-01T11:27:00+00:00",
+      "MetadataOptions": {
+        "HttpEndpoint": "enabled",
+        "HttpPutResponseHopLimit": 1,
+        "HttpTokens": "optional",
+        "State": "pending"
+      },
+      "Monitoring": {
+        "State": "enabled"
+      },
+      "NetworkInterfaces": [],
+      "Placement": {
+        "AvailabilityZone": "us-east-1a",
+        "GroupName": "",
+        "Tenancy": "default"
+      },
+      "PrivateDnsName": "",
+      "ProductCodes": [],
+      "PublicDnsName": "",
+      "RootDeviceName": "/dev/sda1",
+      "RootDeviceType": "ebs",
+      "SecurityGroups": [],
+      "State": {
+        "Code": 48,
+        "Name": "terminated"
+      },
+      "StateReason": {
+        "Code": "Client.UserInitiatedShutdown",
+        "Message": "Client.UserInitiatedShutdown: User initiated shutdown"
+      },
+      "StateTransitionReason": "User initiated (2020-10-01 11:31:26 GMT)",
+      "Tags": [
+        {
+          "Key": "Name",
+          "Value": "god"
+        },
+        {
+          "Key": "aws:autoscaling:groupName",
+          "Value": "chkp_fws"
+        },
+        {
+          "Key": "environment",
+          "Value": "development"
+        }
+      ],
+      "VirtualizationType": "hvm"
+    }
+  ]
+}
